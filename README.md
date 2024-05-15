@@ -15,12 +15,11 @@
 <h2 align="center">📞Contact me📞</h2>
 <p align="center"><img src="https://img.shields.io/badge/fbSleepyLux-%235865F2.svg?&logo=discord&logoColor=white"></img> <img src="https://img.shields.io/badge/Sleepylux@protonmail.com-6D4AFF?logo=protonmail&logoColor=fff"></img></p>
 
-<h2 align="center">📊(Disappointing) Github Stats📊
-	
-<table style="width:100%">
-	<tr>
-	    <td><a href="http://www.github.com/sleepy-lux"><img src="https://github-readme-stats.vercel.app/api?username=sleepy-lux&show_icons=true&hide=&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="sleepy-lux's GitHub stats" /></a></td>
-	    <td><a href="https://github.com/sleepy-lux" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepy-lux&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<h2 align="center">📊(Disappointing) Github Stats📊<br>
+	<table style="width:100%">
+	   <tr>
+		<td><a href="http://www.github.com/sleepy-lux"><img src="https://github-readme-stats.vercel.app/api?username=sleepy-lux&show_icons=true&hide=&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="sleepy-lux's GitHub stats" /></a></td>
+		<td><a href="https://github.com/sleepy-lux" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepy-lux&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 	<table style="width:100%"></td>
 	  </tr>
 	</table>
