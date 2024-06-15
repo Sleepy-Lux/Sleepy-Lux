@@ -1,6 +1,6 @@
 <p align="center">
 	<img alt="Intro picture" src="https://i.imgur.com/frHv0Sy.jpeg"/>
-	<img alt="GitHub followers" src="https://img.shields.io/github/followers/sleepy-lux?style=fla"/> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/s	leepy-lux?style=flat"/>
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/sleepy-lux?style=fla"/> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/sleepy-lux?style=flat"/>
 </p>
 <br>
 <h2 align="center">📂About Me📂</h2>
